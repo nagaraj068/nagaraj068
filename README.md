@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nagaraj V
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning java and python
+- 👀 I’m interested in software testing 
+- 🌱 I’m currently learning java and selenium 
 
 <!---
 nagaraj068/nagaraj068 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
